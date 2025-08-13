@@ -20,15 +20,15 @@ Includes a polished user interface with multiple pages for an engaging player ex
 ## 📂 Project Structure
 
 TicTacToe/
-│── src/
-│ ├── StartupPage.java
-│ ├── GameBoard.java
-│ ├── Scoreboard.java
-│ ├── ResultPage.java
-│ ├── HomePage.java
-│ ├── TutorialPage.java
-│ ├── Main.java
-│── README.md
+└── src/
+├── StartupPage.java
+├── GameBoard.java
+├── Scoreboard.java
+├── ResultPage.java
+├── HomePage.java
+├── TutorialPage.java
+├── Main.java
+└── README.md
 
 
 ## 🚀 How to Run
